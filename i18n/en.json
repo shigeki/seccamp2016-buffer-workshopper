@@ -7,6 +7,7 @@
 	"COPY BUFFER": "Copy Buffer Object",
 	"SLICE BUFFER": "Slice Buffer Object",
 	"CONCAT BUFFER": "Concat Buffer Object",
-	"PARSE BINARY DATA": "Parse Binary Data with Buffer"
+	"PARSE BINARY DATA": "Parse Binary Data with Buffer",
+	"EXTRACT UInt32": "Extract UInt32 from Buffer"
     }
 }

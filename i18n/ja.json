@@ -7,6 +7,7 @@
 	"COPY BUFFER": "Bufferオブジェクトのコピー",
 	"SLICE BUFFER": "Bufferオブジェクトの切り取り",
 	"CONCAT BUFFER": "Bufferオブジェクトの結合",
-	"PARSE BINARY DATA": "Bufferを使ってバイナリデータの解析"
+	"PARSE BINARY DATA": "Bufferを使ってバイナリデータの解析",
+	"EXTRACT UInt32": "Bufferデータからuint32整数の読み取り"
     }
 }
